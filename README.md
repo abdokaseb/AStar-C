@@ -9,4 +9,4 @@ OPTIMIZED FOR 15 * 15 GRID MAPS
 Tested on Arduino UNO:
     It takes 1.83 second to find the goal (AT WAREST CASE)
     If the goal is blocked, It takes 2.57 seoncds (AT WAREST CASE)
-The Algorithm Written on one c file to easily move it to any Microcontroller
+The Algorithm Written on one C file to easily move it to any Microcontroller
